@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alvaroraul7.github.io/csb-fly6t/static/css/main.7eeec3c4.chunk.css",
+    "main.js": "https://alvaroraul7.github.io/csb-fly6t/static/js/main.801ca112.chunk.js",
+    "main.js.map": "https://alvaroraul7.github.io/csb-fly6t/static/js/main.801ca112.chunk.js.map",
+    "runtime-main.js": "https://alvaroraul7.github.io/csb-fly6t/static/js/runtime-main.b255fcdc.js",
+    "runtime-main.js.map": "https://alvaroraul7.github.io/csb-fly6t/static/js/runtime-main.b255fcdc.js.map",
+    "static/js/2.4d07a67f.chunk.js": "https://alvaroraul7.github.io/csb-fly6t/static/js/2.4d07a67f.chunk.js",
+    "static/js/2.4d07a67f.chunk.js.map": "https://alvaroraul7.github.io/csb-fly6t/static/js/2.4d07a67f.chunk.js.map",
+    "index.html": "https://alvaroraul7.github.io/csb-fly6t/index.html",
+    "static/css/main.7eeec3c4.chunk.css.map": "https://alvaroraul7.github.io/csb-fly6t/static/css/main.7eeec3c4.chunk.css.map",
+    "static/js/2.4d07a67f.chunk.js.LICENSE.txt": "https://alvaroraul7.github.io/csb-fly6t/static/js/2.4d07a67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b255fcdc.js",
+    "static/js/2.4d07a67f.chunk.js",
+    "static/css/main.7eeec3c4.chunk.css",
+    "static/js/main.801ca112.chunk.js"
+  ]
+}
